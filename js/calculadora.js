@@ -24,7 +24,5 @@ function calcular(tipo, valor) {
         document.getElementById('acumulador').value = num;
     }
 
-    console.log('Tipo', tipo);
-    console.log('valor', valor);
-    console.log('acumulador', document.getElementById('acumulador').value);    
+  
 }
