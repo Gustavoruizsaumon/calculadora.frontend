@@ -1,5 +1,5 @@
 # Calculadora Frontend
-Sprint Final Módulo 2
+## Sprint Final Módulo 2
 ![Calculadora IMG](./assets/ssCalc.png)
 
 ## Integrantes
