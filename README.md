@@ -1,11 +1,9 @@
 # Calculadora Frontend
 Sprint Final Módulo 2
+![Calculadora IMG](./assets/ssCalc.png)
 
 ## Integrantes
 Gustavo Ruiz, Jorge Moraga, Juan Pino
-
-![Calculadora IMG](./assets/ssCalc.png)
-
 
 Este proyecto está generado con html, css y javascript
 
